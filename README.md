@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SophieHervieu/SophieHervieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Plaisant Inspiratif Citation Tumblr Bannière](https://github.com/SophieHervieu/SophieHervieu/assets/101133676/1ef28532-b083-4b55-bf35-b4fa24b1c964)
+
+
+*I'm a **junior web developer** from France 🇫🇷 who loves to learn more everyday about web development !*
+

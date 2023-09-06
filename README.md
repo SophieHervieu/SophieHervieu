@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center"><em>About</em></h3>
+<h3 align="center">🌿 <em>About</em> 🌿</h3>
 
 ---
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center"><em>Skills</em></h3>
+<h3 align="center">💻 <em>Skills</em> 💻</h3>
   
 ---
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center"><em>Tools</em></h3>
+<h3 align="center">✏️ <em>Tools</em> ✏️</h3>
 
 ---
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center"><em>Contact me</em></h3>
+<h3 align="center">✉️ <em>Contact me</em> ✉️</h3>
 
 ---
 

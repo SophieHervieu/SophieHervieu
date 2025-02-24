@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
   <ul>
-    <li>🌱 <em>I’m currently learning PHP</em></li>
+    <li>🌱 <em>I’m currently learning Java</em></li>
     <li>😄 <em>Pronouns: she/her</em></li>
     <li>⚡ <em>Fun fact: I hate coffee and energy drinks. My fuel is actually tea !</em> 🍵</li>
   </ul>

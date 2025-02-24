@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github.com/SophieHervieu/SophieHervieu/assets/101133676/57b495e6-010f-4782-91a9-098759cf909e">
 
 </br>
-<h3><em>I'm a junior web developer from France 🥐 who loves to learn more everyday about web development ! I'm currently looking for an apprenticeship to continue to upgrade my skills !</em></h3>
+<h3><em>I'm a junior concept developer from France 🥐 who loves to learn more everyday about web development ! I'm currently completing my training in concept development and I'm looking for an apprenticeship to continue to upgrade my skills !</em></h3>
 </br>
 </br>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <ul>
     <li>🌱 <em>I’m currently learning Java</em></li>
     <li>😄 <em>Pronouns: she/her</em></li>
-    <li>⚡ <em>Fun fact: I hate coffee and energy drinks. My fuel is actually tea !</em> 🍵</li>
+    <li>⚡ <em>Fun fact: I don't like coffee and energy drinks. My fuel is actually tea !</em> 🍵</li>
   </ul>
 
 ---

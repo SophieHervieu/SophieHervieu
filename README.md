@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
   <ul>
-    <li>🌱 <em>I’m currently learning Java</em></li>
+    <li>🌱 <em>I’m currently learning Symfony</em></li>
     <li>😄 <em>Pronouns: she/her</em></li>
     <li>⚡ <em>Fun fact: I don't like coffee and energy drinks. My fuel is actually tea !</em> 🍵</li>
   </ul>
@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
